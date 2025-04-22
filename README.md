@@ -9,11 +9,34 @@ dalam bahasa indonesia "adalah penggabungan dari aplikasi administrasi dan keuan
   - Berita Acara Serah Terima
   - Administrasi Desa
     - Sekretariat Desa
+      - Buku Peraturan di Desa
+      - Buku Aparatur Pemerintah Desa
+      - Buku Keputusan Kepala Desa
+      - Buku Lembaran dan Berita Desa
+      - Buku Musyawarah Desa
     - Kaur TU dan Umum
+      - Buku Inventaris Kekayaan Desa
+      - Buku Tanah Kas Desa
+      - Buku Tanah di Desa
+      - Buku Agenda
+      - Exspedisi
     - Kaur Perencanaan
+      - Buku Rencana Pembangunan
+      - Buku Kegiatan Pembangunan
+      - Buku Inventaris Hasil Pembangunan
     - Kasi Pemerintah
+      - Buku Mutasi Penduduk
+      - Buku Rekapitulasi Penduduk
+      - Buku Penduduk Sementara
+      - Buku KTP dan KK
+      - Buku Induk Penduduk
     - Kasi Kesejahteraan
-    - Pelayanan
+      - Buku Kader Pembangunan Manusia (KPM)
+      - Buku Data Kelompok Tani
+      - Buku Daftar Penerima Bantuan Sosial
+    - Kasi Pelayanan
+      - Buku Lembaga/ Kader di Desa
+      - Buku Kegiatan Lembaga/ Kader di Desa
   - Input Surat
     - Surat Keterangan Usaha
     - Surat Keterangan Domisili
