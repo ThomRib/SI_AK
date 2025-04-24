@@ -64,3 +64,5 @@ dalam bahasa indonesia "adalah penggabungan dari aplikasi administrasi dan keuan
   - Realisasi Anggaran
   - Tanda Terima Penghasilan
   - Tanda Terima Insentif
+
+# structure Database
