@@ -65,5 +65,18 @@ is a combination of village administration and financial applications to make it
   - Realisasi Anggaran
   - Tanda Terima Penghasilan
   - Tanda Terima Insentif
+    
+# UI/Menu
+   ![menu](https://github.com/user-attachments/assets/2dc7176d-8b69-46a0-81bf-4e6abc30b52f)
+   ![sub menu admin](https://github.com/user-attachments/assets/c8b5cb78-0df8-4e32-9b1b-6a6de2af27e5)
+   ![Screenshot (2390)](https://github.com/user-attachments/assets/b78e49d0-bef6-4b36-be55-33cf5729017c)
+   ![Screenshot (2391)](https://github.com/user-attachments/assets/401d409e-d9d4-4a6c-ab64-eba0cfecfe59)
+   ![Screenshot (2392)](https://github.com/user-attachments/assets/43830256-461a-4f00-8842-1cb8952d714a)
+   ![Screenshot (2393)](https://github.com/user-attachments/assets/7bf31769-9043-4f19-9bd3-131a6077ca9c)
+   ![Screenshot (2394)](https://github.com/user-attachments/assets/3e2a058c-e043-4950-88d6-47a8dd083725)
+   ![Screenshot (2395)](https://github.com/user-attachments/assets/39afee2e-0621-4d6d-8c55-199b853c8183)
+   ![Screenshot (2396)](https://github.com/user-attachments/assets/b55f3a3c-5465-48e9-9be7-679df744496e)
+   ![Screenshot (2399)](https://github.com/user-attachments/assets/fd274c98-709f-4c35-848f-b055bbbed54f)
+   ![Screenshot (2400)](https://github.com/user-attachments/assets/1d54cb2d-9e40-4a1c-859a-fc5e148e601b)
 
 # structure Database
