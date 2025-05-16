@@ -79,4 +79,12 @@ is a combination of village administration and financial applications to make it
    ![Screenshot (2399)](https://github.com/user-attachments/assets/fd274c98-709f-4c35-848f-b055bbbed54f)
    ![Screenshot (2400)](https://github.com/user-attachments/assets/1d54cb2d-9e40-4a1c-859a-fc5e148e601b)
 
+# UI/Form
+   ![kontrol pajak](https://github.com/user-attachments/assets/bd6978c1-1a99-4b63-96fb-a98fa123dd61)
+   
+# UI/Reports
+   ![laporan](https://github.com/user-attachments/assets/3eb6aa00-452e-4095-bdfe-86dbbb26458e)
+
+
+
 # structure Database
