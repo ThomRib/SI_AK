@@ -80,6 +80,8 @@ is a combination of village administration and financial applications to make it
    ![Screenshot (2400)](https://github.com/user-attachments/assets/1d54cb2d-9e40-4a1c-859a-fc5e148e601b)
 
 # UI/Form
+   ![suratketeranganusaha](https://github.com/user-attachments/assets/c56e7ecd-ddf3-45d6-a221-a23fbdc0f627)
+   ![mutasipendudukdesa](https://github.com/user-attachments/assets/a10c5037-e537-46f5-910d-67d63f4893b4)
    ![kontrol pajak](https://github.com/user-attachments/assets/bd6978c1-1a99-4b63-96fb-a98fa123dd61)
    
 # UI/Reports
