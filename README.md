@@ -5,7 +5,6 @@ is a combination of village administration and financial applications to make it
 
 
 
-
 # Fitur
 - Administrasi
   - Berita Acara Serah Terima
