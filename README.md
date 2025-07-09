@@ -3,6 +3,7 @@ is a combination of village administration and financial applications to make it
 </br>
 "adalah penggabungan dari aplikasi administrasi dan keuangan desa agar lebih mudah dalam pengaksesannya, ini dibuat agar kegiatan administrasi dan keuangan dapat berjalankan secara sistemmatis dan inovatif."(thomas, 2025)
 
+
 # Fitur
 - Administrasi
   - Berita Acara Serah Terima
